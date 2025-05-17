@@ -1,0 +1,2 @@
+precision,recall,f1-score,accuracy,features,training time (s)
+0.384,0.41025641025641024,0.39669421487603307,0.416,Logistic Regression Classifier with default parameters,0.1197960376739502

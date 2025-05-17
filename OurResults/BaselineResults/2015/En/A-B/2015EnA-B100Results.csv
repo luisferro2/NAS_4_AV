@@ -1,0 +1,1000 @@
+precision,recall,f1-score,accuracy,auc,features,training time (s)
+0.6126126126126126,0.816,0.6998284734133791,0.65,0.6499999999999999,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.621160409556314,0.728,0.6703499079189686,0.642,0.642,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.6006006006006006,0.8,0.686106346483705,0.634,0.634,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.625,0.66,0.6420233463035019,0.632,0.632,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5822454308093995,0.892,0.7045813586097947,0.626,0.626,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.5763239875389408,0.74,0.647985989492119,0.598,0.598,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.5780730897009967,0.696,0.631578947368421,0.594,0.594,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.5523114355231143,0.908,0.686838124054463,0.586,0.5860000000000001,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.5511811023622047,0.84,0.6656101426307449,0.578,0.578,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.5565476190476191,0.748,0.6382252559726963,0.576,0.5760000000000001,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5562130177514792,0.752,0.6394557823129251,0.576,0.5760000000000001,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.6578947368421053,0.3,0.41208791208791207,0.572,0.572,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.5551948051948052,0.684,0.6129032258064515,0.568,0.5680000000000001,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.5833333333333334,0.448,0.5067873303167421,0.564,0.5640000000000001,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.539440203562341,0.848,0.6594090202177294,0.562,0.562,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.5457317073170732,0.716,0.6193771626297578,0.56,0.56,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5909090909090909,0.364,0.45049504950495045,0.556,0.556,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.5583333333333333,0.536,0.5469387755102041,0.556,0.556,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.5528455284552846,0.544,0.5483870967741936,0.552,0.552,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.5335276967930029,0.732,0.6172006745362564,0.546,0.546,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.5461847389558233,0.544,0.5450901803607214,0.546,0.546,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.5260770975056689,0.928,0.6714905933429812,0.546,0.546,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.5660377358490566,0.36,0.4400977995110024,0.542,0.542,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.5241379310344828,0.912,0.6656934306569343,0.542,0.542,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.6060606060606061,0.24,0.3438395415472779,0.542,0.542,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.5442477876106194,0.492,0.5168067226890757,0.54,0.54,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.5221445221445221,0.896,0.6597938144329897,0.538,0.538,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.5276967930029155,0.724,0.6104553119730186,0.538,0.538,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.5222772277227723,0.844,0.6452599388379204,0.536,0.536,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.5739130434782609,0.264,0.36164383561643837,0.534,0.534,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.5410628019323671,0.448,0.4901531728665208,0.534,0.534,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.520891364902507,0.748,0.6141215106732348,0.53,0.53,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.5207100591715976,0.704,0.5986394557823129,0.528,0.528,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.71875,0.092,0.16312056737588654,0.528,0.528,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.5196374622356495,0.688,0.5920826161790017,0.526,0.526,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.5347593582887701,0.4,0.4576659038901602,0.526,0.526,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.5170603674540682,0.788,0.624405705229794,0.526,0.526,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5136842105263157,0.976,0.6731034482758621,0.526,0.526,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.515,0.824,0.6338461538461538,0.524,0.524,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.5180722891566265,0.688,0.5910652920962199,0.524,0.524,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.5143603133159269,0.788,0.6224328593996841,0.522,0.522,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5126436781609195,0.892,0.6510948905109489,0.522,0.522,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.516320474777448,0.696,0.5928449744463372,0.522,0.522,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.513126491646778,0.86,0.6427503736920778,0.522,0.522,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.5282051282051282,0.412,0.4629213483146067,0.522,0.522,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.5159420289855072,0.712,0.5983193277310924,0.522,0.522,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.5127610208816705,0.884,0.6490455212922174,0.522,0.522,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.5146198830409356,0.704,0.5945945945945945,0.52,0.52,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.5109649122807017,0.932,0.660056657223796,0.52,0.52,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.5114155251141552,0.896,0.6511627906976745,0.52,0.52,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.510158013544018,0.904,0.6522366522366523,0.518,0.518,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.5123287671232877,0.748,0.608130081300813,0.518,0.518,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.5099778270509978,0.92,0.6562054208273894,0.518,0.518,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.5095693779904307,0.852,0.6377245508982036,0.516,0.516,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5096153846153846,0.848,0.6366366366366366,0.516,0.516,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.511049723756906,0.74,0.6045751633986928,0.516,0.516,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.5116959064327485,0.7,0.5912162162162161,0.516,0.516,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.5094339622641509,0.864,0.6409495548961425,0.516,0.516,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.5105740181268882,0.676,0.5817555938037866,0.514,0.514,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.5133079847908745,0.54,0.5263157894736843,0.514,0.514,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.5101449275362319,0.704,0.5915966386554622,0.514,0.514,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.511864406779661,0.604,0.5541284403669725,0.514,0.514,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.5087719298245614,0.812,0.6255778120184899,0.514,0.514,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.509090909090909,0.672,0.5793103448275863,0.512,0.512,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.5068493150684932,0.888,0.6453488372093023,0.512,0.512,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.5068807339449541,0.884,0.6443148688046647,0.512,0.512,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.5076530612244898,0.796,0.6199376947040499,0.512,0.512,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.5084175084175084,0.604,0.5521023765996343,0.51,0.51,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.5096525096525096,0.528,0.5186640471512771,0.51,0.51,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.5087719298245614,0.58,0.5420560747663552,0.51,0.51,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.5054945054945055,0.736,0.5993485342019543,0.508,0.508,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.5046296296296297,0.872,0.6392961876832844,0.508,0.508,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.5046296296296297,0.872,0.6392961876832844,0.508,0.508,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.5054347826086957,0.744,0.6019417475728156,0.508,0.508,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.5040485829959515,0.996,0.6693548387096774,0.508,0.508,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.5040214477211796,0.752,0.6035313001605136,0.506,0.506,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.6,0.036,0.06792452830188678,0.506,0.506,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.5040650406504065,0.744,0.6009693053311793,0.506,0.506,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.5036855036855037,0.82,0.624048706240487,0.506,0.506,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.5042016806722689,0.72,0.5930807248764415,0.506,0.506,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.5034965034965035,0.864,0.6362297496318116,0.506,0.506,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.5020325203252033,0.988,0.6657681940700809,0.504,0.504,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.5026178010471204,0.768,0.6075949367088608,0.504,0.504,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.5032467532467533,0.62,0.5555555555555555,0.504,0.504,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 1]",518.5596249103546
+1.0,0.008,0.015873015873015872,0.504,0.504,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.501002004008016,1.0,0.6675567423230975,0.502,0.502,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5010141987829615,0.988,0.6648721399730821,0.502,0.502,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+1.0,0.004,0.00796812749003984,0.502,0.502,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+1.0,0.004,0.00796812749003984,0.502,0.502,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.5,0.752,0.6006389776357828,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.5,0.512,0.5059288537549407,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.5,0.62,0.5535714285714285,0.5,0.5,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.5,0.716,0.5888157894736842,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.5,0.64,0.5614035087719298,0.5,0.5,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation logistic in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.5,1.0,0.6666666666666666,0.5,0.5,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.49889135254988914,0.9,0.6419400855920114,0.498,0.498,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.49885057471264366,0.868,0.6335766423357664,0.498,0.498,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.4954128440366973,0.648,0.561525129982669,0.494,0.494,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.4956772334293948,0.688,0.5762144053601339,0.494,0.494,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.4727272727272727,0.104,0.17049180327868851,0.494,0.494,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.49473684210526314,0.752,0.5968253968253968,0.492,0.492,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.48360655737704916,0.236,0.3172043010752688,0.492,0.492,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.491869918699187,0.484,0.4879032258064516,0.492,0.492,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.46774193548387094,0.116,0.18589743589743588,0.492,0.492,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.41379310344827586,0.048,0.08602150537634409,0.49,0.49000000000000005,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.49490835030549896,0.972,0.6558704453441295,0.49,0.49,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.4931506849315068,0.72,0.5853658536585366,0.49,0.49,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.4931129476584022,0.716,0.5840130505709624,0.49,0.49,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.4932249322493225,0.728,0.5880452342487884,0.49,0.49,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.391304347826087,0.036,0.06593406593406594,0.49,0.49,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.47058823529411764,0.192,0.2727272727272727,0.488,0.488,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.47540983606557374,0.232,0.31182795698924737,0.488,0.488,Default SVC SVM,0.06624841690063477
+0.4892086330935252,0.544,0.5151515151515151,0.488,0.488,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.488,0.488,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.48905109489051096,0.536,0.5114503816793893,0.488,0.488,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.4910025706940874,0.764,0.5978090766823161,0.486,0.486,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.4904109589041096,0.716,0.5821138211382114,0.486,0.486,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.41304347826086957,0.076,0.12837837837837837,0.484,0.484,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.49078341013824883,0.852,0.6228070175438596,0.484,0.484,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.48606811145510836,0.628,0.5479930191972078,0.482,0.482,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.4816326530612245,0.472,0.4767676767676768,0.482,0.482,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.4884910485933504,0.764,0.5959438377535101,0.482,0.482,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.4835164835164835,0.528,0.5047801147227533,0.482,0.482,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.48883374689826303,0.788,0.6033690658499234,0.482,0.482,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.4788135593220339,0.452,0.4650205761316873,0.48,0.48,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.4734042553191489,0.356,0.4063926940639269,0.48,0.48,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.4642857142857143,0.26,0.3333333333333333,0.48,0.48,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.3829787234042553,0.072,0.1212121212121212,0.478,0.478,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.48295454545454547,0.68,0.5647840531561461,0.476,0.47600000000000003,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.4846153846153846,0.756,0.590625,0.476,0.476,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.47297297297297297,0.42,0.4449152542372881,0.476,0.476,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.19047619047619047,0.016,0.02952029520295203,0.474,0.47400000000000003,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.4778156996587031,0.56,0.5156537753222836,0.474,0.47400000000000003,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.4786885245901639,0.584,0.5261261261261261,0.474,0.474,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.0,0.0,0.0,0.474,0.474,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.4682926829268293,0.384,0.421978021978022,0.474,0.474,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.4788273615635179,0.588,0.5278276481149012,0.474,0.474,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.06666666666666667,0.004,0.007547169811320755,0.474,0.474,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.4823848238482385,0.712,0.5751211631663975,0.474,0.474,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.4807121661721068,0.648,0.5519591141396933,0.474,0.474,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.45454545454545453,0.28,0.34653465346534656,0.472,0.47200000000000003,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.47388059701492535,0.508,0.49034749034749037,0.472,0.472,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.4740484429065744,0.548,0.5083487940630798,0.47,0.47000000000000003,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.4708171206225681,0.484,0.4773175542406311,0.47,0.47,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.4780058651026393,0.652,0.5516074450084602,0.47,0.47,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.463302752293578,0.404,0.43162393162393164,0.468,0.468,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.41836734693877553,0.164,0.235632183908046,0.468,0.468,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.44871794871794873,0.28,0.34482758620689663,0.468,0.468,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.44871794871794873,0.28,0.34482758620689663,0.468,0.468,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.481651376146789,0.84,0.6122448979591837,0.468,0.46799999999999997,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.4603960396039604,0.372,0.41150442477876104,0.468,0.46799999999999997,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.47961630695443647,0.8,0.5997001499250376,0.466,0.466,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.47757255936675463,0.724,0.5755166931637521,0.466,0.46599999999999997,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.4684014869888476,0.504,0.4855491329479769,0.466,0.46599999999999997,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.4717607973421927,0.568,0.515426497277677,0.466,0.46599999999999997,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.3902439024390244,0.128,0.1927710843373494,0.464,0.464,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.44155844155844154,0.272,0.33663366336633666,0.464,0.464,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.4791666666666667,0.828,0.6070381231671554,0.464,0.46399999999999997,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.425,0.204,0.27567567567567564,0.464,0.46399999999999997,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.46311475409836067,0.452,0.45748987854251016,0.464,0.46399999999999997,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.47058823529411764,0.576,0.5179856115107914,0.464,0.46399999999999997,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.4624505928853755,0.468,0.4652087475149106,0.462,0.462,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.45365853658536587,0.372,0.4087912087912088,0.462,0.462,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.468013468013468,0.556,0.5082266910420475,0.462,0.462,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.46303501945525294,0.476,0.4694280078895463,0.462,0.46199999999999997,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.4652014652014652,0.508,0.48565965583174,0.462,0.46199999999999997,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.46864686468646866,0.568,0.5135623869801085,0.462,0.46199999999999997,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.4595744680851064,0.432,0.44536082474226807,0.462,0.46199999999999997,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.47005988023952094,0.628,0.5376712328767124,0.46,0.45999999999999996,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.4734042553191489,0.712,0.5686900958466454,0.46,0.45999999999999996,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.4743276283618582,0.776,0.5887708649468892,0.458,0.458,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.45643153526970953,0.44,0.4480651731160896,0.458,0.45799999999999996,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.45528455284552843,0.448,0.4516129032258065,0.456,0.456,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.46283783783783783,0.548,0.5018315018315018,0.456,0.456,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.3804347826086957,0.14,0.20467836257309943,0.456,0.456,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.47277227722772275,0.764,0.5840978593272171,0.456,0.456,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.4433497536945813,0.36,0.3973509933774834,0.454,0.454,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.4416243654822335,0.348,0.38926174496644295,0.454,0.454,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.4627831715210356,0.572,0.5116279069767441,0.454,0.45399999999999996,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.4627831715210356,0.572,0.5116279069767441,0.454,0.45399999999999996,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.45147679324894513,0.428,0.4394250513347022,0.454,0.45399999999999996,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.44933920704845814,0.408,0.42767295597484273,0.454,0.45399999999999996,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.16666666666666666,0.024,0.04195804195804196,0.452,0.452,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.47101449275362317,0.78,0.5873493975903614,0.452,0.452,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.45121951219512196,0.444,0.4475806451612903,0.452,0.452,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.45081967213114754,0.44,0.44534412955465585,0.452,0.452,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.46703296703296704,0.68,0.5537459283387622,0.452,0.452,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.46226415094339623,0.588,0.5176056338028169,0.452,0.45199999999999996,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.4491525423728814,0.424,0.4362139917695473,0.452,0.45199999999999996,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.4493927125506073,0.444,0.44668008048289737,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.4497991967871486,0.448,0.4488977955911823,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.4564459930313589,0.524,0.4878957169459963,0.45,0.45,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.45674740484429066,0.528,0.489795918367347,0.45,0.45,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.45454545454545453,0.5,0.47619047619047616,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.450199203187251,0.452,0.4510978043912176,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.45136186770428016,0.464,0.45759368836291914,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.14285714285714285,0.02,0.03508771929824562,0.45,0.45,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.45098039215686275,0.46,0.45544554455445546,0.45,0.45,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.4476987447698745,0.428,0.4376278118609407,0.45,0.44999999999999996,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.32894736842105265,0.1,0.1533742331288344,0.448,0.448,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.4424778761061947,0.4,0.4201680672268908,0.448,0.448,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.45,0.468,0.4588235294117647,0.448,0.448,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.4462809917355372,0.432,0.43902439024390244,0.448,0.448,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.4554794520547945,0.532,0.4907749077490775,0.448,0.448,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.4398148148148148,0.38,0.40772532188841204,0.448,0.448,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.44841269841269843,0.452,0.450199203187251,0.448,0.448,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.4322916666666667,0.332,0.3755656108597285,0.448,0.44799999999999995,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.4434782608695652,0.408,0.425,0.448,0.44799999999999995,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.44537815126050423,0.424,0.4344262295081967,0.448,0.44799999999999995,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.44396551724137934,0.412,0.42738589211618255,0.448,0.44799999999999995,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.4449152542372881,0.42,0.4320987654320988,0.448,0.44799999999999995,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.45126353790613716,0.5,0.47438330170777987,0.446,0.446,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.4474708171206226,0.46,0.45364891518737677,0.446,0.446,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.44787644787644787,0.464,0.45579567779960706,0.446,0.446,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.44534412955465585,0.44,0.4426559356136821,0.446,0.446,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.44787644787644787,0.464,0.45579567779960706,0.446,0.446,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.4383561643835616,0.384,0.4093816631130064,0.446,0.446,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.4457831325301205,0.444,0.44488977955911824,0.446,0.446,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.4489051094890511,0.492,0.46946564885496184,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.4369369369369369,0.388,0.4110169491525424,0.444,0.444,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.4448818897637795,0.452,0.4484126984126984,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.444,0.444,0.444,0.444,0.444,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.44656488549618323,0.468,0.45703125000000006,0.444,0.444,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.43859649122807015,0.4,0.41841004184100417,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.43457943925233644,0.372,0.40086206896551724,0.444,0.444,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.4375,0.392,0.41350210970464135,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.44308943089430897,0.436,0.43951612903225806,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.43859649122807015,0.4,0.41841004184100417,0.444,0.444,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.4520547945205479,0.528,0.48708487084870844,0.444,0.444,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.4339622641509434,0.368,0.39826839826839827,0.444,0.444,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.4176470588235294,0.284,0.33809523809523806,0.444,0.44399999999999995,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.4064516129032258,0.252,0.31111111111111106,0.442,0.442,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.4337899543378995,0.38,0.4051172707889126,0.442,0.442,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.44876325088339225,0.508,0.4765478424015009,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.43317972350230416,0.376,0.4025695931477516,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.4444444444444444,0.464,0.4540117416829746,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.4312796208530806,0.364,0.3947939262472885,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.4388185654008439,0.416,0.4271047227926078,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.43612334801762115,0.396,0.41509433962264153,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.430622009569378,0.36,0.3921568627450981,0.442,0.442,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.4388185654008439,0.416,0.4271047227926078,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.44081632653061226,0.432,0.4363636363636364,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.44649446494464945,0.484,0.4644913627639156,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.4403292181069959,0.428,0.43407707910750504,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.43555555555555553,0.392,0.41263157894736835,0.442,0.442,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.43829787234042555,0.412,0.4247422680412371,0.442,0.44199999999999995,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.421875,0.324,0.36651583710407243,0.44,0.44000000000000006,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.4264705882352941,0.348,0.3832599118942731,0.44,0.44,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.4330357142857143,0.388,0.409282700421941,0.44,0.44,Logistic Regression Classifier with default parameters,0.0871274471282959
+0.44,0.44,0.44,0.44,0.44,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.43119266055045874,0.376,0.4017094017094018,0.44,0.44,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.46113989637305697,0.712,0.5597484276729559,0.44,0.44,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.46134020618556704,0.716,0.5611285266457681,0.44,0.44,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.4423076923076923,0.46,0.4509803921568628,0.44,0.44,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.4318181818181818,0.38,0.4042553191489362,0.44,0.44,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.44274809160305345,0.464,0.45312500000000006,0.44,0.44,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.4340425531914894,0.408,0.42061855670103093,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.4432234432234432,0.484,0.4627151051625239,0.438,0.438,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.4311111111111111,0.388,0.40842105263157896,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.43873517786561267,0.444,0.441351888667992,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.4329004329004329,0.4,0.4158004158004158,0.438,0.438,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.4236453201970443,0.344,0.379690949227373,0.438,0.438,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.4304932735426009,0.384,0.40591966173361527,0.438,0.438,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.46228710462287104,0.76,0.5748865355521936,0.438,0.438,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.4351464435146444,0.416,0.425357873210634,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.4304932735426009,0.384,0.40591966173361527,0.438,0.438,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.44363636363636366,0.488,0.4647619047619048,0.438,0.438,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.4345991561181435,0.412,0.4229979466119097,0.438,0.438,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.43621399176954734,0.424,0.4300202839756593,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.44483985765124556,0.5,0.4708097928436912,0.438,0.438,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.4351464435146444,0.416,0.425357873210634,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.4292237442922374,0.376,0.40085287846481876,0.438,0.438,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.43231441048034935,0.396,0.4133611691022964,0.438,0.438,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.20754716981132076,0.044,0.07260726072607261,0.438,0.438,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.41530054644808745,0.304,0.3510392609699769,0.438,0.43799999999999994,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.4470198675496689,0.54,0.48913043478260876,0.436,0.43600000000000005,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.43162393162393164,0.404,0.41735537190082644,0.436,0.43600000000000005,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.4166666666666667,0.32,0.36199095022624433,0.436,0.43600000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.4375,0.448,0.4426877470355732,0.436,0.436,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.35964912280701755,0.164,0.22527472527472525,0.436,0.436,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.4230769230769231,0.352,0.38427947598253276,0.436,0.436,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.42727272727272725,0.376,0.39999999999999997,0.436,0.436,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.4238095238095238,0.356,0.3869565217391305,0.436,0.436,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.4344262295081967,0.424,0.4291497975708502,0.436,0.436,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.2037037037037037,0.044,0.07236842105263158,0.436,0.436,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.436,0.436,0.436,0.436,0.436,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.43333333333333335,0.416,0.42448979591836733,0.436,0.436,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.4291845493562232,0.4,0.4140786749482402,0.434,0.43400000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.4291845493562232,0.4,0.4140786749482402,0.434,0.43400000000000005,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.4297872340425532,0.404,0.4164948453608248,0.434,0.43400000000000005,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.41708542713567837,0.332,0.3697104677060134,0.434,0.43400000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.44481605351170567,0.532,0.4845173041894354,0.434,0.43400000000000005,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.42731277533039647,0.388,0.40670859538784065,0.434,0.434,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.4246575342465753,0.372,0.3965884861407249,0.434,0.434,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.42731277533039647,0.388,0.40670859538784065,0.434,0.434,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.4326530612244898,0.424,0.42828282828282827,0.434,0.434,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.42105263157894735,0.352,0.38344226579520696,0.434,0.434,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.32989690721649484,0.128,0.1844380403458213,0.434,0.434,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.4266666666666667,0.384,0.4042105263157895,0.434,0.434,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.4315352697095436,0.416,0.42362525458248473,0.434,0.434,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.4260089686098655,0.38,0.40169133192389006,0.434,0.434,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.4578005115089514,0.716,0.5585023400936038,0.434,0.434,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.4114583333333333,0.316,0.3574660633484163,0.432,0.43200000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.22580645161290322,0.056,0.08974358974358974,0.432,0.43200000000000005,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.42735042735042733,0.4,0.4132231404958678,0.432,0.43200000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.24242424242424243,0.064,0.10126582278481014,0.432,0.43200000000000005,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.4448051948051948,0.548,0.4910394265232975,0.432,0.43200000000000005,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.430327868852459,0.42,0.42510121457489874,0.432,0.432,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.4409722222222222,0.508,0.47211895910780666,0.432,0.432,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.42272727272727273,0.372,0.39574468085106385,0.432,0.432,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.419811320754717,0.356,0.3852813852813853,0.432,0.432,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.4247787610619469,0.384,0.40336134453781514,0.432,0.432,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.42201834862385323,0.368,0.39316239316239315,0.432,0.432,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.4205607476635514,0.36,0.38793103448275856,0.432,0.432,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.43253968253968256,0.436,0.4342629482071713,0.432,0.432,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.42410714285714285,0.38,0.4008438818565401,0.432,0.432,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.4212962962962963,0.364,0.3905579399141631,0.432,0.432,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.366412213740458,0.192,0.25196850393700787,0.43,0.43000000000000005,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.4339622641509434,0.46,0.44660194174757284,0.43,0.43000000000000005,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.42424242424242425,0.392,0.4074844074844075,0.43,0.43000000000000005,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.4248927038626609,0.396,0.4099378881987577,0.43,0.43000000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.4368231046931408,0.484,0.45920303605313095,0.43,0.43,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.42971887550200805,0.428,0.42885771543086176,0.43,0.43,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.42358078602620086,0.388,0.4050104384133612,0.43,0.43,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.41545893719806765,0.344,0.3763676148796499,0.43,0.43,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.4354243542435424,0.472,0.4529750479846449,0.43,0.43,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.40437158469945356,0.296,0.34180138568129326,0.43,0.42999999999999994,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.4011299435028249,0.284,0.3325526932084309,0.43,0.42999999999999994,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.41262135922330095,0.34,0.37280701754385964,0.428,0.42800000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.4407894736842105,0.536,0.48375451263537905,0.428,0.42800000000000005,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.40816326530612246,0.32,0.35874439461883406,0.428,0.42800000000000005,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.41,0.328,0.3644444444444444,0.428,0.42800000000000005,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.40816326530612246,0.32,0.35874439461883406,0.428,0.42800000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.41509433962264153,0.352,0.38095238095238093,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.4158878504672897,0.356,0.3836206896551724,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.42035398230088494,0.38,0.3991596638655462,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.4142857142857143,0.348,0.3782608695652174,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.41346153846153844,0.344,0.37554585152838427,0.428,0.428,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.4189189189189189,0.372,0.39406779661016944,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.4262295081967213,0.416,0.42105263157894735,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.4142857142857143,0.348,0.3782608695652174,0.428,0.428,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.4166666666666667,0.36,0.3862660944206009,0.428,0.428,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.4268292682926829,0.42,0.42338709677419356,0.428,0.428,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.3989071038251366,0.292,0.33718244803695147,0.426,0.42600000000000005,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.4219409282700422,0.4,0.4106776180698152,0.426,0.42600000000000005,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.4199134199134199,0.388,0.4033264033264033,0.426,0.42600000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.4088669950738916,0.332,0.36644591611479027,0.426,0.42600000000000005,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.4177777777777778,0.376,0.3957894736842105,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.4131455399061033,0.352,0.38012958963282933,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.4280155642023346,0.44,0.4339250493096647,0.426,0.426,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.416289592760181,0.368,0.39065817409766457,0.426,0.426,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.4155251141552511,0.364,0.3880597014925373,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.4177777777777778,0.376,0.3957894736842105,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.42570281124497994,0.424,0.42484969939879763,0.426,0.426,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.3669064748201439,0.204,0.262210796915167,0.426,0.426,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.413953488372093,0.356,0.38279569892473114,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.413953488372093,0.356,0.38279569892473114,0.426,0.426,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.405,0.324,0.36,0.424,0.42400000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.4077669902912621,0.336,0.368421052631579,0.424,0.42400000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.4068627450980392,0.332,0.3656387665198238,0.424,0.42400000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.4375,0.532,0.48014440433212996,0.424,0.42400000000000004,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.4,0.304,0.34545454545454546,0.424,0.42400000000000004,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.4166666666666667,0.38,0.39748953974895407,0.424,0.42400000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.40865384615384615,0.34,0.3711790393013101,0.424,0.42400000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.3978494623655914,0.296,0.33944954128440363,0.424,0.42400000000000004,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.41203703703703703,0.356,0.3819742489270386,0.424,0.424,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.4095238095238095,0.344,0.3739130434782608,0.424,0.424,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.42276422764227645,0.416,0.41935483870967744,0.424,0.424,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.415929203539823,0.376,0.39495798319327735,0.424,0.424,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.41284403669724773,0.36,0.3846153846153846,0.424,0.424,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.4380952380952381,0.552,0.48849557522123893,0.422,0.42200000000000004,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.42696629213483145,0.456,0.4410058027079304,0.422,0.42200000000000004,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.41013824884792627,0.356,0.3811563169164882,0.422,0.422,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.42292490118577075,0.428,0.42544731610337977,0.422,0.422,"MLP with solver lbfgs,                     activation identity in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.4125560538116592,0.368,0.3890063424947146,0.422,0.422,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.38857142857142857,0.272,0.32,0.422,0.422,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.391304347826087,0.288,0.3317972350230415,0.42,0.42000000000000004,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.4230769230769231,0.44,0.4313725490196078,0.42,0.42000000000000004,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.4019607843137255,0.328,0.3612334801762115,0.42,0.42000000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 32, 32, 1]",518.5596249103546
+0.424812030075188,0.452,0.437984496124031,0.42,0.42000000000000004,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.4,0.32,0.35555555555555557,0.42,0.42000000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.3958333333333333,0.304,0.3438914027149321,0.42,0.42000000000000004,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.42366412213740456,0.444,0.43359374999999994,0.42,0.42000000000000004,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.39361702127659576,0.296,0.3378995433789954,0.42,0.42000000000000004,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.39690721649484534,0.308,0.3468468468468468,0.42,0.42000000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.34375,0.176,0.23280423280423282,0.42,0.42000000000000004,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.38372093023255816,0.264,0.3127962085308057,0.42,0.42,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.3765432098765432,0.244,0.2961165048543689,0.42,0.42,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.4099099099099099,0.364,0.3855932203389831,0.42,0.42,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.25609756097560976,0.084,0.12650602409638553,0.42,0.42,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.4,0.328,0.3604395604395605,0.418,0.41800000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.33858267716535434,0.172,0.22811671087533153,0.418,0.41800000000000004,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.39901477832512317,0.324,0.3576158940397351,0.418,0.41800000000000004,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.4,0.328,0.3604395604395605,0.418,0.41800000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.43278688524590164,0.528,0.4756756756756757,0.418,0.41800000000000004,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.4,0.328,0.3604395604395605,0.418,0.41800000000000004,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.39800995024875624,0.32,0.35476718403547675,0.418,0.41800000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.4127659574468085,0.388,0.4,0.418,0.41800000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.4226415094339623,0.448,0.4349514563106796,0.418,0.41800000000000004,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.4149377593360996,0.4,0.40733197556008155,0.418,0.41800000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 16, 32, 1]",518.5596249103546
+0.4196078431372549,0.428,0.42376237623762375,0.418,0.418,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.4055299539170507,0.352,0.3768736616702355,0.418,0.418,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.4072398190045249,0.36,0.3821656050955414,0.418,0.418,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.40375586854460094,0.344,0.3714902807775378,0.418,0.418,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.40789473684210525,0.372,0.3891213389121339,0.416,0.41600000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.4,0.336,0.3652173913043479,0.416,0.41600000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.39603960396039606,0.32,0.35398230088495575,0.416,0.41600000000000004,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.40869565217391307,0.376,0.39166666666666666,0.416,0.41600000000000004,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.39805825242718446,0.328,0.35964912280701755,0.416,0.41600000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.38333333333333336,0.276,0.32093023255813957,0.416,0.41600000000000004,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.40625,0.364,0.3839662447257384,0.416,0.41600000000000004,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.3837837837837838,0.284,0.3264367816091954,0.414,0.41400000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.3961352657004831,0.328,0.35886214442013126,0.414,0.41400000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.39408866995073893,0.32,0.35320088300220753,0.414,0.41400000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.40358744394618834,0.36,0.38054968287526425,0.414,0.41400000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.4107883817427386,0.396,0.40325865580448067,0.414,0.41400000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.39195979899497485,0.312,0.34743875278396436,0.414,0.41400000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.411522633744856,0.4,0.40567951318458423,0.414,0.41400000000000003,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.3981042654028436,0.336,0.3644251626898048,0.414,0.41400000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.38860103626943004,0.3,0.33860045146726864,0.414,0.41400000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.3862433862433862,0.292,0.3325740318906606,0.414,0.41400000000000003,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.4085106382978723,0.384,0.3958762886597938,0.414,0.41400000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.4018264840182648,0.352,0.37526652452025583,0.414,0.414,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.3712574850299401,0.248,0.2973621103117506,0.414,0.414,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.3952380952380952,0.332,0.36086956521739133,0.412,0.41200000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.3854166666666667,0.296,0.334841628959276,0.412,0.41200000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.4083333333333333,0.392,0.39999999999999997,0.412,0.41200000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.3854166666666667,0.296,0.334841628959276,0.412,0.41200000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.37777777777777777,0.272,0.31627906976744186,0.412,0.41200000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.3103448275862069,0.144,0.19672131147540986,0.412,0.41200000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.397196261682243,0.34,0.3663793103448276,0.412,0.41200000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.3358208955223881,0.18,0.234375,0.412,0.41200000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.39814814814814814,0.344,0.3690987124463519,0.412,0.412,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.42142857142857143,0.472,0.4452830188679245,0.412,0.412,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.35714285714285715,0.22,0.27227722772277224,0.412,0.412,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.35526315789473684,0.216,0.26865671641791045,0.412,0.412,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.29245283018867924,0.124,0.1741573033707865,0.412,0.412,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.38461538461538464,0.3,0.33707865168539325,0.41,0.41000000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.4,0.36,0.3789473684210526,0.41,0.41000000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.38578680203045684,0.304,0.34004474272930646,0.41,0.41000000000000003,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.40425531914893614,0.38,0.3917525773195877,0.41,0.41000000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.3170731707317073,0.156,0.2091152815013405,0.41,0.41000000000000003,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.4025974025974026,0.372,0.3866943866943867,0.41,0.41000000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.41697416974169743,0.452,0.43378119001919385,0.41,0.41000000000000003,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.3699421965317919,0.256,0.3026004728132387,0.41,0.41,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.3763440860215054,0.28,0.3211009174311927,0.408,0.40800000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.4025423728813559,0.38,0.3909465020576132,0.408,0.40800000000000003,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.38144329896907214,0.296,0.3333333333333333,0.408,0.40800000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.37222222222222223,0.268,0.3116279069767442,0.408,0.40800000000000003,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.4166666666666667,0.46,0.4372623574144487,0.408,0.40800000000000003,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.4017094017094017,0.376,0.3884297520661157,0.408,0.40800000000000003,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.3614457831325301,0.24,0.28846153846153844,0.408,0.408,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.3597560975609756,0.236,0.28502415458937197,0.408,0.408,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.4169611307420495,0.472,0.4427767354596623,0.406,0.406,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.3284671532846715,0.18,0.23255813953488372,0.406,0.406,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.42394822006472493,0.524,0.46869409660107336,0.406,0.406,Default Bernoulli naive Bayes,0.03277897834777832
+0.40408163265306124,0.396,0.4,0.406,0.406,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [64, 128, 1]",518.5596249103546
+0.4186851211072664,0.484,0.4489795918367347,0.406,0.406,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 32, 1]",518.5596249103546
+0.4008438818565401,0.38,0.3901437371663244,0.406,0.406,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.4,0.376,0.38762886597938145,0.406,0.406,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.3875598086124402,0.324,0.35294117647058826,0.406,0.406,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.23595505617977527,0.084,0.12389380530973451,0.406,0.40599999999999997,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.3723404255319149,0.28,0.319634703196347,0.404,0.404,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.3651685393258427,0.26,0.3037383177570093,0.404,0.404,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.36666666666666664,0.264,0.3069767441860465,0.404,0.404,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.40625,0.416,0.41106719367588934,0.404,0.404,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.38235294117647056,0.312,0.34361233480176206,0.404,0.404,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.3811881188118812,0.308,0.34070796460176994,0.404,0.404,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.3695652173913043,0.272,0.3133640552995392,0.404,0.404,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.35185185185185186,0.228,0.2766990291262136,0.404,0.40399999999999997,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.35185185185185186,0.228,0.2766990291262136,0.404,0.40399999999999997,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.35365853658536583,0.232,0.28019323671497587,0.404,0.40399999999999997,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.14492753623188406,0.04,0.06269592476489028,0.402,0.402,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.3948497854077253,0.368,0.38095238095238093,0.402,0.402,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.27927927927927926,0.124,0.17174515235457063,0.402,0.402,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 64, 128, 1]",518.5596249103546
+0.3781094527363184,0.304,0.3370288248337029,0.402,0.402,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.4061302681992337,0.424,0.41487279843444225,0.402,0.402,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 16, 64, 1]",518.5596249103546
+0.34394904458598724,0.216,0.26535626535626533,0.402,0.40199999999999997,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.25252525252525254,0.1,0.14326647564469913,0.402,0.40199999999999997,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.33986928104575165,0.208,0.25806451612903225,0.402,0.40199999999999997,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.3697916666666667,0.284,0.3212669683257918,0.4,0.4,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.39669421487603307,0.384,0.3902439024390244,0.4,0.4,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.288135593220339,0.136,0.18478260869565216,0.4,0.4,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.3670212765957447,0.276,0.31506849315068497,0.4,0.4,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.3853211009174312,0.336,0.35897435897435903,0.4,0.4,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.3798076923076923,0.316,0.3449781659388646,0.4,0.4,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.3493975903614458,0.232,0.27884615384615385,0.4,0.39999999999999997,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.3508771929824561,0.24,0.2850356294536817,0.398,0.398,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.3791469194312796,0.32,0.3470715835140998,0.398,0.398,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.34911242603550297,0.236,0.28162291169451076,0.398,0.398,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.35428571428571426,0.248,0.29176470588235287,0.398,0.398,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.4044943820224719,0.432,0.4177949709864603,0.398,0.398,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.38461538461538464,0.34,0.3609341825902335,0.398,0.398,"MLP with solver adam,                     activation identity in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.3621621621621622,0.268,0.3080459770114942,0.398,0.398,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.39759036144578314,0.396,0.39679358717434876,0.398,0.398,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.3621621621621622,0.268,0.3080459770114942,0.398,0.398,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.4117647058823529,0.476,0.44155844155844154,0.398,0.398,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.3473053892215569,0.232,0.27817745803357313,0.398,0.39799999999999996,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [16, 1]",518.5596249103546
+0.29365079365079366,0.148,0.1968085106382979,0.396,0.396,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.3539325842696629,0.252,0.29439252336448596,0.396,0.396,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.3686868686868687,0.292,0.3258928571428571,0.396,0.396,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.37254901960784315,0.304,0.33480176211453744,0.396,0.396,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.20454545454545456,0.072,0.10650887573964497,0.396,0.39599999999999996,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.36683417085427134,0.292,0.32516703786191536,0.394,0.394,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.3037037037037037,0.164,0.212987012987013,0.394,0.394,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.3944223107569721,0.396,0.39520958083832336,0.394,0.394,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.3789954337899543,0.332,0.3539445628997868,0.394,0.394,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.3567567567567568,0.264,0.30344827586206896,0.394,0.394,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.3778801843317972,0.328,0.3511777301927195,0.394,0.394,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 64, 1]",518.5596249103546
+0.3694581280788177,0.3,0.33112582781456956,0.394,0.394,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.34502923976608185,0.236,0.2802850356294536,0.394,0.394,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.3468208092485549,0.24,0.2836879432624113,0.394,0.394,"MLP with solver sgd,                     activation relu in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.3548387096774194,0.264,0.30275229357798167,0.392,0.392,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.39849624060150374,0.424,0.4108527131782946,0.392,0.392,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.36363636363636365,0.288,0.32142857142857145,0.392,0.392,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.3465909090909091,0.244,0.28638497652582157,0.392,0.392,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.3333333333333333,0.216,0.2621359223300971,0.392,0.39199999999999996,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.25225225225225223,0.112,0.15512465373961218,0.39,0.39,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.34285714285714286,0.24,0.2823529411764706,0.39,0.39,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.19101123595505617,0.068,0.10029498525073748,0.39,0.39,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.3645320197044335,0.296,0.3267108167770419,0.39,0.39,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.37089201877934275,0.316,0.34125269978401723,0.39,0.39,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.2727272727272727,0.132,0.1778975741239892,0.39,0.39,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.34285714285714286,0.24,0.2823529411764706,0.39,0.39,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.36180904522613067,0.288,0.32071269487750553,0.39,0.39,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.3225806451612903,0.2,0.24691358024691357,0.39,0.39,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.37610619469026546,0.34,0.3571428571428571,0.388,0.388,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.36,0.288,0.32,0.388,0.388,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.390625,0.4,0.3952569169960474,0.388,0.388,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.3526315789473684,0.268,0.30454545454545456,0.388,0.388,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.3313253012048193,0.22,0.2644230769230769,0.388,0.388,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.34782608695652173,0.256,0.29493087557603687,0.388,0.388,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 128, 128, 1]",518.5596249103546
+0.35858585858585856,0.284,0.31696428571428564,0.388,0.388,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.32926829268292684,0.216,0.2608695652173913,0.388,0.388,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 64, 64, 1]",518.5596249103546
+0.34759358288770054,0.26,0.2974828375286041,0.386,0.386,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.32515337423312884,0.212,0.2566585956416465,0.386,0.386,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 64, 64, 1]",518.5596249103546
+0.3425414364640884,0.248,0.2877030162412993,0.386,0.386,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.379746835443038,0.36,0.3696098562628337,0.386,0.386,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.37554585152838427,0.344,0.3590814196242171,0.386,0.386,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [128, 1]",518.5596249103546
+0.34759358288770054,0.26,0.2974828375286041,0.386,0.386,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.3553299492385787,0.28,0.31319910514541394,0.386,0.386,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.36097560975609755,0.296,0.3252747252747253,0.386,0.386,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 16, 16, 1]",518.5596249103546
+0.34759358288770054,0.26,0.2974828375286041,0.386,0.386,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [16, 64, 1]",518.5596249103546
+0.29285714285714287,0.164,0.2102564102564103,0.384,0.384,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.3388888888888889,0.244,0.2837209302325582,0.384,0.384,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.3423913043478261,0.252,0.2903225806451613,0.384,0.384,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.31645569620253167,0.2,0.24509803921568624,0.384,0.384,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.35051546391752575,0.272,0.30630630630630634,0.384,0.384,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.34408602150537637,0.256,0.29357798165137616,0.384,0.384,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.33707865168539325,0.24,0.28037383177570097,0.384,0.384,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [64, 64, 128, 1]",518.5596249103546
+0.3605769230769231,0.3,0.32751091703056767,0.384,0.384,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 32, 1]",518.5596249103546
+0.3592233009708738,0.296,0.32456140350877194,0.384,0.384,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 8, 1]",518.5596249103546
+0.3605769230769231,0.3,0.32751091703056767,0.384,0.384,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 1]",518.5596249103546
+0.2803030303030303,0.148,0.19371727748691098,0.384,0.384,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.35175879396984927,0.28,0.31180400890868604,0.382,0.382,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.3167701863354037,0.204,0.24817518248175183,0.382,0.382,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.28776978417266186,0.16,0.20565552699228792,0.382,0.382,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.3096774193548387,0.192,0.23703703703703702,0.382,0.382,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.3167701863354037,0.204,0.24817518248175183,0.382,0.382,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.3598130841121495,0.308,0.33189655172413796,0.38,0.38,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.3706896551724138,0.344,0.3568464730290456,0.38,0.38,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.35148514851485146,0.284,0.3141592920353983,0.38,0.38,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [128, 128, 1]",518.5596249103546
+0.33695652173913043,0.248,0.28571428571428575,0.38,0.38,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.3611111111111111,0.312,0.33476394849785407,0.38,0.38,"MLP with solver lbfgs,                     activation relu in hidden layers and                     architecture [4, 32, 64, 1]",518.5596249103546
+0.3051948051948052,0.188,0.23267326732673266,0.38,0.38,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 1]",518.5596249103546
+0.3482587064676617,0.28,0.3104212860310422,0.378,0.378,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 64, 1]",518.5596249103546
+0.3435897435897436,0.268,0.30112359550561796,0.378,0.378,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [128, 128, 128, 1]",518.5596249103546
+0.3632286995515695,0.324,0.34249471458773784,0.378,0.378,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.3236994219653179,0.224,0.2647754137115839,0.378,0.378,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 32, 128, 1]",518.5596249103546
+0.2867132867132867,0.164,0.20865139949109415,0.378,0.378,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.327683615819209,0.232,0.2716627634660422,0.378,0.378,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 32, 128, 1]",518.5596249103546
+0.35121951219512193,0.288,0.31648351648351647,0.378,0.378,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.33689839572192515,0.252,0.2883295194508009,0.378,0.378,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.20192307692307693,0.084,0.11864406779661016,0.376,0.376,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 8, 32, 1]",518.5596249103546
+0.3402061855670103,0.264,0.2972972972972973,0.376,0.376,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.2987012987012987,0.184,0.22772277227722773,0.376,0.376,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.32386363636363635,0.228,0.26760563380281693,0.376,0.376,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.36160714285714285,0.324,0.34177215189873417,0.376,0.376,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.37083333333333335,0.356,0.363265306122449,0.376,0.376,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 32, 128, 1]",518.5596249103546
+0.31097560975609756,0.204,0.24637681159420288,0.376,0.376,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.34183673469387754,0.268,0.3004484304932736,0.376,0.376,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.33152173913043476,0.244,0.28110599078341014,0.376,0.376,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.3218390804597701,0.224,0.26415094339622636,0.376,0.376,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.36363636363636365,0.336,0.34927234927234935,0.374,0.374,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.3259668508287293,0.236,0.2737819025522042,0.374,0.374,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.3136094674556213,0.212,0.2529832935560859,0.374,0.374,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.33507853403141363,0.256,0.29024943310657597,0.374,0.374,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.36929460580912865,0.356,0.3625254582484725,0.374,0.374,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.21100917431192662,0.092,0.12813370473537603,0.374,0.374,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 64, 1]",518.5596249103546
+0.29936305732484075,0.188,0.23095823095823095,0.374,0.374,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.3670886075949367,0.348,0.3572895277207392,0.374,0.374,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.3136094674556213,0.212,0.2529832935560859,0.374,0.374,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.3383838383838384,0.268,0.29910714285714285,0.372,0.372,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.3048780487804878,0.2,0.24154589371980675,0.372,0.372,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.3279569892473118,0.244,0.27981651376146793,0.372,0.372,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 16, 1]",518.5596249103546
+0.31213872832369943,0.216,0.2553191489361702,0.37,0.37,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 16, 32, 1]",518.5596249103546
+0.32620320855614976,0.244,0.2791762013729977,0.37,0.37,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.3459715639810427,0.292,0.3167028199566161,0.37,0.37,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.2789115646258503,0.164,0.20654911838790932,0.37,0.37,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.25190839694656486,0.132,0.1732283464566929,0.37,0.37,"MLP with solver lbfgs,                     activation logistic in hidden layers and                     architecture [8, 8, 16, 1]",518.5596249103546
+0.30120481927710846,0.2,0.2403846153846154,0.368,0.368,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 16, 1]",518.5596249103546
+0.3625,0.348,0.3551020408163265,0.368,0.368,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [16, 16, 128, 1]",518.5596249103546
+0.23809523809523808,0.12,0.15957446808510636,0.368,0.368,"MLP with solver adam,                     activation relu in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.3333333333333333,0.264,0.29464285714285715,0.368,0.368,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.21551724137931033,0.1,0.1366120218579235,0.368,0.368,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [64, 1]",518.5596249103546
+0.27702702702702703,0.164,0.20603015075376885,0.368,0.368,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 32, 128, 1]",518.5596249103546
+0.30120481927710846,0.2,0.2403846153846154,0.368,0.368,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 64, 128, 1]",518.5596249103546
+0.2751677852348993,0.164,0.2055137844611529,0.366,0.366,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.26573426573426573,0.152,0.19338422391857504,0.366,0.366,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 16, 1]",518.5596249103546
+0.32085561497326204,0.24,0.27459954233409617,0.366,0.366,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 32, 1]",518.5596249103546
+0.2671232876712329,0.156,0.196969696969697,0.364,0.364,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 1]",518.5596249103546
+0.3068181818181818,0.216,0.2535211267605634,0.364,0.364,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 8, 1]",518.5596249103546
+0.3089887640449438,0.22,0.25700934579439255,0.364,0.364,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [8, 16, 64, 1]",518.5596249103546
+0.2638888888888889,0.152,0.19289340101522845,0.364,0.364,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 32, 64, 1]",518.5596249103546
+0.32105263157894737,0.244,0.2772727272727272,0.364,0.364,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 64, 1]",518.5596249103546
+0.3440366972477064,0.3,0.3205128205128205,0.364,0.364,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 32, 1]",518.5596249103546
+0.3333333333333333,0.272,0.2995594713656388,0.364,0.364,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 16, 128, 1]",518.5596249103546
+0.32105263157894737,0.244,0.2772727272727272,0.364,0.364,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.30726256983240224,0.22,0.2564102564102564,0.362,0.362,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 64, 1]",518.5596249103546
+0.2982456140350877,0.204,0.24228028503562943,0.362,0.362,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 32, 32, 1]",518.5596249103546
+0.24060150375939848,0.128,0.1671018276762402,0.362,0.362,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.3380281690140845,0.288,0.3110151187904967,0.362,0.362,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.30726256983240224,0.22,0.2564102564102564,0.362,0.362,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 128, 128, 1]",518.5596249103546
+0.2883435582822086,0.188,0.22760290556900725,0.362,0.362,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 128, 128, 1]",518.5596249103546
+0.3248730964467005,0.256,0.28635346756152125,0.362,0.362,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [32, 64, 128, 1]",518.5596249103546
+0.3504273504273504,0.328,0.3388429752066116,0.36,0.36,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.31958762886597936,0.248,0.2792792792792793,0.36,0.36,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 32, 64, 1]",518.5596249103546
+0.2891566265060241,0.192,0.23076923076923075,0.36,0.36,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [64, 128, 128, 1]",518.5596249103546
+0.26490066225165565,0.16,0.19950124688279303,0.358,0.35800000000000004,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 64, 1]",518.5596249103546
+0.2795031055900621,0.18,0.218978102189781,0.358,0.358,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 128, 1]",518.5596249103546
+0.31794871794871793,0.248,0.2786516853932584,0.358,0.358,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.31413612565445026,0.24,0.272108843537415,0.358,0.358,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 64, 64, 1]",518.5596249103546
+0.3197969543147208,0.252,0.2818791946308725,0.358,0.358,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.2585034013605442,0.152,0.19143576826196476,0.358,0.358,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [4, 16, 64, 1]",518.5596249103546
+0.2994350282485876,0.212,0.24824355971896958,0.358,0.358,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 16, 128, 1]",518.5596249103546
+0.2721518987341772,0.172,0.21078431372549017,0.356,0.356,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 32, 1]",518.5596249103546
+0.3105263157894737,0.236,0.26818181818181813,0.356,0.356,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 16, 16, 1]",518.5596249103546
+0.29545454545454547,0.208,0.24413145539906103,0.356,0.356,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.32195121951219513,0.264,0.2901098901098901,0.354,0.354,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 64, 64, 1]",518.5596249103546
+0.31840796019900497,0.256,0.2838137472283814,0.354,0.354,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 8, 8, 1]",518.5596249103546
+0.31088082901554404,0.24,0.27088036117381487,0.354,0.354,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 4, 16, 1]",518.5596249103546
+0.13725490196078433,0.056,0.07954545454545454,0.352,0.35200000000000004,"MLP with solver adam,                     activation logistic in hidden layers and                     architecture [4, 4, 1]",518.5596249103546
+0.24305555555555555,0.14,0.17766497461928935,0.352,0.352,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 16, 32, 1]",518.5596249103546
+0.2716049382716049,0.176,0.21359223300970873,0.352,0.352,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [32, 1]",518.5596249103546
+0.3112244897959184,0.244,0.273542600896861,0.352,0.352,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 32, 32, 1]",518.5596249103546
+0.2994652406417112,0.224,0.2562929061784897,0.35,0.35,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.2781065088757396,0.188,0.22434367541766106,0.35,0.35,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 4, 4, 1]",518.5596249103546
+0.2625,0.168,0.20487804878048785,0.348,0.34800000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 64, 64, 1]",518.5596249103546
+0.1935483870967742,0.096,0.1283422459893048,0.348,0.348,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [4, 128, 128, 1]",518.5596249103546
+0.3256880733944954,0.284,0.3034188034188034,0.348,0.348,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [16, 32, 64, 1]",518.5596249103546
+0.25925925925925924,0.168,0.2038834951456311,0.344,0.34400000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
+0.25,0.156,0.1921182266009852,0.344,0.34400000000000003,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.11,0.044,0.06285714285714285,0.344,0.34400000000000003,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [16, 128, 1]",518.5596249103546
+0.2621951219512195,0.172,0.20772946859903382,0.344,0.344,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 128, 1]",518.5596249103546
+0.2348993288590604,0.14,0.1754385964912281,0.342,0.342,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 32, 32, 1]",518.5596249103546
+0.2777777777777778,0.2,0.23255813953488372,0.34,0.33999999999999997,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 8, 8, 1]",518.5596249103546
+0.3386454183266932,0.34,0.3393213572854291,0.338,0.338,"MLP with solver adam,                     activation tanh in hidden layers and                     architecture [32, 32, 1]",518.5596249103546
+0.16393442622950818,0.08,0.10752688172043012,0.336,0.33599999999999997,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.25882352941176473,0.176,0.2095238095238095,0.336,0.33599999999999997,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 16, 1]",518.5596249103546
+0.30288461538461536,0.252,0.27510917030567683,0.336,0.33599999999999997,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [32, 128, 1]",518.5596249103546
+0.2995169082125604,0.248,0.2713347921225383,0.334,0.33399999999999996,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 8, 64, 1]",518.5596249103546
+0.2558139534883721,0.176,0.20853080568720378,0.332,0.33199999999999996,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [16, 16, 16, 1]",518.5596249103546
+0.26519337016574585,0.192,0.22273781902552206,0.33,0.33,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [4, 64, 128, 1]",518.5596249103546
+0.22580645161290322,0.14,0.1728395061728395,0.33,0.33,"MLP with solver sgd,                     activation identity in hidden layers and                     architecture [8, 8, 128, 1]",518.5596249103546
+0.35691318327974275,0.444,0.3957219251336898,0.322,0.322,"MLP with solver lbfgs,                     activation tanh in hidden layers and                     architecture [8, 128, 1]",518.5596249103546
+0.1875,0.108,0.1370558375634518,0.32,0.32,"MLP with solver sgd,                     activation tanh in hidden layers and                     architecture [4, 128, 1]",518.5596249103546
