@@ -62,7 +62,7 @@ Open notebook _NAS_AV.py_ and execute step by step to see the process of applyin
 
 ## Other files/folders
 
-- The _surrogates_ folder is meant to serve as a place where the results will be saved after running the _NAS_AV.ipynb_ notebook
+- The _surrogates_ folder is meant to serve as a place where some results will be saved after running the _NAS_AV.ipynb_ notebook
 
 - The _preprocessing.ipynb_ is provided to understand the code that was used to generate the datasets in format. It was executed in Google Colab with a Google Drive mount.
 
