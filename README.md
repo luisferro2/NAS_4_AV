@@ -3,25 +3,44 @@ Project to use Neural Architecture Search (NAS) coupled with an Evolutionary Alg
 
 To explore the proposed deep neural network search space when solving AV, follow the steps outlined (CUDA enabled machine required):
 
-## 1.- Install Python version 3.12
-https://www.python.org/downloads/
+## 1.- Create environment
+You may prefer to use a virtual environment manager like venv or conda
 
-## 2.- Clone the repository
+Example with conda:
+```
+conda create --name my_env
+```
+
+## 2.- Activate the environment
+Example with conda:
+```
+conda activate my_env
+```
+
+## 3.- Clone the repository
 
 ```
 git clone https://github.com/luisferro2/NAS_4_AV.git
 ```
 
-## 3.- Install requirements
+## 4.- Install requirements
 
 Navigate to the folder of the repository.
 ```
 cd NAS_4_AV
 ```
-Install list of requirements
+Install list of requirements.
 ```
 pip install -r requirements.txt
 ```
+
+## 5.- Install cuda and cuda-enabled PyTorch
+
+The steps to install cuda on Windows are in the documentation:
+https://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/
+
+The command to install cuda-enabled PyTorch can be obtained with your particular system and cuda version in the following link:
+https://pytorch.org/get-started/locally/
 
 ## 4.- Generate dataset in format
 
