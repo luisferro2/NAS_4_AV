@@ -29,6 +29,10 @@ Navigate to the folder of the repository.
 ```
 cd NAS_4_AV
 ```
+Install Python 3.12 (example with conda):
+```
+conda install python==3.12
+```
 Install list of requirements.
 ```
 pip install -r requirements.txt
