@@ -52,9 +52,9 @@ This project is based around the problem configuration of one known document wit
 
 ![alt text](<Screenshot 2025-05-06 at 3.10.54 p.m..png>)
 
-The column _'text1'_ represents the known document, column _'text2'_ represents the unknown document, and the _'label'_ (0 or 1) represents the answer to the authorship verification problem. Then, save these tables as a csv file with the custom separator backslash '\\' in the folder Dataset, with the names _'training.csv'_ and _'test.csv'_.
+The column _'text1'_ represents the known document, column _'text2'_ represents the unknown document, and the _'label'_ (0 or 1) represents the answer to the authorship verification problem. Then, save these tables as csv files with the custom separator backslash '\\' in the folder PreprocessedDatasets.
 
-We use the open access datasets from CLEF-PAN, which are of the years 2013, 2014, 2015 and 2020(21) in a standard format. To download the original datasets, visit: https://pan.webis.de/shared-tasks.html
+We use the open access datasets from CLEF-PAN, which are of the years 2013, 2014, 2015 and 2020(21) and save them in this format. To download the original datasets, visit: https://pan.webis.de/shared-tasks.html
 
 ## 5.- Execute the notebook
 
